@@ -6,9 +6,8 @@ All files located inside the vagrant directory were not created by me. Some edit
 
 #### Downloads
 
-[Vagrant](https://www.vagrantup.com/downloads) download
-
-[VirtualBox](https://www.virtualbox.org/wiki/Downloads) download
+[Vagrant](https://www.vagrantup.com/downloads)
+[VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
 #### Author Information
 
