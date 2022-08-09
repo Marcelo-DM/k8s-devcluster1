@@ -2,7 +2,7 @@
 This repository uses vagrant to deploy a local five node Kubernetes cluster in VirtualBox.
 
 ## IMPORTANT
-All files located inside the vagrant directory were not created by me. Some edits have been made but all credit should be directed to https://github.com/mmumshad/kubernetes-the-hard-way. This project provided the ability to quickly create a test environment, albeit, a little different from the project.
+All files located inside the vagrant directory were not created by me. Some edits have been made but all credit should be directed to https://github.com/mmumshad/kubernetes-the-hard-way. This project provided the ability to quickly create a test environment without too much thought.
 
 #### Downloads
 
